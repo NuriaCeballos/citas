@@ -2,7 +2,7 @@
 
 Express: 4.17.1
 
-Express-handlebars": 5.2.0
+Express-handlebars: 5.2.0
 
 Qqrcode: 1.4.4
 
